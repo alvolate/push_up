@@ -1,4 +1,4 @@
-# Clothing Enhancement
+# Push up count
 
 Python, OpenCV, YOLO
 
